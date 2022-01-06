@@ -117,7 +117,7 @@ public class Salary {
         System.out.println("-------------------------------------------------");
         System.out.println("Gaji Bersih Golongan 3: Rp"+salaryObj.calculateSalary(gol3));
         System.out.println("-------------------------------------------------");
-        System.out.println("Gaji Bersih Golongan 4: Rp"+salaryObj.calculateSalary(gol4));
+        System.out.println("Gaji Bersih Golongan 5: Rp"+salaryObj.calculateSalary(gol4));
     }
     
 }
